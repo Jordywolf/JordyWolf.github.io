@@ -21,10 +21,10 @@ Contact
 
 #---------- HERO ----------#
 
-Kane Williams
-Creative Web & App Developer
+Jordy Wolf
+Engineer | Game Developer
 
-alt = kane williams
+alt = jordy wolf
 
 Hi, I’m kane williams and I am creative web & app developer who dream making the world better place by creating captivating products.
 
